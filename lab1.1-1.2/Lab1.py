@@ -3,9 +3,9 @@ import math
 from random import *
 
 
-n = 12
-N = 64
-omega = 1100
+n = 14
+N = 256
+omega = 1800
 
 y = []
 freqY = []
